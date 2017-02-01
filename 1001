@@ -9,6 +9,7 @@ import java.util.*;
  * 结果闹得学生们无心学业，一心只证(3n+1)，
  * 以至于有人说这是一个阴谋，卡拉兹是在蓄意延缓美国数学界教学与科研的进展…… 
  * 
+ */
 class Solution// PAT 1001
 {
 	private int n;
